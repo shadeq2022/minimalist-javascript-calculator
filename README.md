@@ -6,5 +6,5 @@ A minimalistic calculator web application built with HTML, CSS, and JavaScript. 
 
 ## Demo
 
-![minimalist js calculator](https://github.com/shadeq2022/minimalist-javascript-calculator/assets/108068374/f8960b51-c40a-48ca-9044-95c34f4bce93)
+![minimalist js calculator](https://github.com/shadeq2022/minimalist-javascript-calculator/blob/main/minimalist%20js%20calculator.gif)
 
